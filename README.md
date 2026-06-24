@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Um e Habiba
 
 🎓 BS Computer Science Student
-💻 Passionate about Programming and Web Development
-🌱 Currently learning **C++, JavaScript, and Web Development**
+💻 Passionate about Programming and AI/ML
+🌱 Currently learning **C++, python, and HTML**
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 Studying **Computer Science**
-* 📚 Interested in **Software Development**
-* 💡 Learning **Git, GitHub, and Web Technologies**
-* 🎯 Goal: Become a **professional software developer**
+* 📚 Interested in **AI and ML**
+* 💡 Learning **Git, GitHub, and AI Technologies**
+* 🎯 Goal: Become a **professional AI engineer**
 
 ---
 
@@ -19,8 +19,8 @@
 
 * 💻 C++
 * 🌐 HTML
-* 🎨 CSS
-* ⚡ JavaScript
+* 🎨 Python
+* ⚡ Discrete structure
 * 🗂 Git & GitHub
 
 ---
