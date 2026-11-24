@@ -1,0 +1,122 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+
+  <defs>
+
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#192332" stroke-width="0.8"/>
+    </pattern>
+
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#2DD4BF"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- Dark gaming background -->
+
+  <rect width="900" height="300" rx="14" fill="#080B12"/>
+  <rect width="900" height="300" rx="14" fill="url(#grid)"/>
+
+  <rect x="12" y="12" width="876" height="276" rx="10"
+        fill="none" stroke="#334155"/>
+
+  <!-- Game interface -->
+
+  <g font-family="Consolas, monospace">
+
+    <text x="35" y="38" font-size="13" fill="#2DD4BF">
+      PLAYER_01
+    </text>
+
+    <text x="865" y="38" text-anchor="end" font-size="13" fill="#FBBF24">
+      MODE: LEARNING
+    </text>
+
+    <!-- Main identity -->
+
+    <text x="450" y="112" text-anchor="middle"
+          font-size="56" font-weight="bold"
+          fill="url(#neon)" filter="url(#glow)">
+      UM E HABIBA
+    </text>
+
+    <text x="450" y="153" text-anchor="middle"
+          font-size="23" fill="#E2E8F0">
+      Aspiring AI &amp; ML Engineer
+    </text>
+
+    <text x="450" y="185" text-anchor="middle"
+          font-size="15" fill="#A78BFA">
+      DATA SCIENCE / MACHINE LEARNING / DSA
+    </text>
+
+  </g>
+
+  <!-- Snake body -->
+
+  <g>
+
+    <rect x="48" y="240" width="21" height="21" rx="4" fill="#8B5CF6"/>
+    <rect x="72" y="240" width="21" height="21" rx="4" fill="#A855F7"/>
+    <rect x="96" y="240" width="21" height="21" rx="4" fill="#C084FC"/>
+    <rect x="120" y="240" width="21" height="21" rx="4" fill="#D946EF"/>
+
+    <rect x="120" y="216" width="21" height="21" rx="4" fill="#EC4899"/>
+    <rect x="144" y="216" width="21" height="21" rx="4" fill="#F472B6"/>
+    <rect x="168" y="216" width="21" height="21" rx="4" fill="#FB7185"/>
+    <rect x="192" y="216" width="21" height="21" rx="4" fill="#F97316"/>
+
+    <rect x="192" y="240" width="21" height="21" rx="4" fill="#FB923C"/>
+    <rect x="216" y="240" width="21" height="21" rx="4" fill="#FBBF24"/>
+    <rect x="240" y="240" width="21" height="21" rx="4" fill="#FACC15"/>
+    <rect x="264" y="240" width="21" height="21" rx="4" fill="#A3E635"/>
+    <rect x="288" y="240" width="21" height="21" rx="4" fill="#4ADE80"/>
+    <rect x="312" y="240" width="21" height="21" rx="4" fill="#34D399"/>
+    <rect x="336" y="240" width="21" height="21" rx="4" fill="#2DD4BF"/>
+    <rect x="360" y="240" width="21" height="21" rx="4" fill="#22D3EE"/>
+
+    <!-- Snake head -->
+
+    <rect x="384" y="240" width="23" height="21" rx="5" fill="#67E8F9"/>
+    <circle cx="400" cy="245" r="2.5" fill="#080B12"/>
+    <circle cx="400" cy="255" r="2.5" fill="#080B12"/>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0;72 0;144 0;216 0;288 0;360 0;0 0"
+      dur="8s"
+      calcMode="discrete"
+      repeatCount="indefinite"/>
+
+  </g>
+
+  <!-- Glowing game collectibles -->
+
+  <rect x="480" y="242" width="17" height="17" rx="4" fill="#EC4899">
+    <animate attributeName="opacity" values="1;0.2;1"
+             dur="1.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="624" y="242" width="17" height="17" rx="4" fill="#FBBF24">
+    <animate attributeName="opacity" values="1;0.2;1"
+             dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="792" y="242" width="17" height="17" rx="4" fill="#A78BFA">
+    <animate attributeName="opacity" values="1;0.2;1"
+             dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>
