@@ -1,0 +1,66 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="365" viewBox="0 0 850 365">
+
+  <rect width="850" height="365" rx="12" fill="#09090B"/>
+  <rect x="1" y="1" width="848" height="363" rx="12" fill="none" stroke="#30363D"/>
+
+  <rect x="1" y="1" width="848" height="40" rx="11" fill="#18181B"/>
+
+  <circle cx="22" cy="21" r="6" fill="#FF5F56"/>
+  <circle cx="42" cy="21" r="6" fill="#FFBD2E"/>
+  <circle cx="62" cy="21" r="6" fill="#27C93F"/>
+
+  <g font-family="Consolas, Monaco, monospace">
+
+    <text x="425" y="26" text-anchor="middle" fill="#A1A1AA" font-size="13">whoami.py — Visual Studio Code</text>
+
+    <rect y="42" width="850" height="34" fill="#111113"/>
+    <rect x="12" y="42" width="150" height="34" fill="#09090B"/>
+    <rect x="12" y="42" width="150" height="2" fill="#C084FC"/>
+
+    <text x="25" y="64" fill="#FACC15" font-size="13">PY</text>
+    <text x="53" y="64" fill="#E4E4E7" font-size="13">whoami.py</text>
+    <text x="143" y="64" fill="#71717A" font-size="13">×</text>
+
+    <g font-size="16" xml:space="preserve">
+
+      <text x="22" y="103" fill="#52525B">1</text>
+      <text x="55" y="103" fill="#71717A"># Behind the username</text>
+
+      <text x="22" y="130" fill="#52525B">2</text>
+      <text x="55" y="130"><tspan fill="#C084FC">class </tspan><tspan fill="#FACC15">Habiba</tspan><tspan fill="#FFFFFF">:</tspan></text>
+
+      <text x="22" y="157" fill="#52525B">3</text>
+      <text x="87" y="157"><tspan fill="#7DD3FC">name</tspan><tspan fill="#F472B6"> = </tspan><tspan fill="#A3E635">"Um e Habiba"</tspan></text>
+
+      <text x="22" y="184" fill="#52525B">4</text>
+      <text x="87" y="184"><tspan fill="#7DD3FC">role</tspan><tspan fill="#F472B6"> = </tspan><tspan fill="#A3E635">"Aspiring AI &amp; ML Engineer"</tspan></text>
+
+      <text x="22" y="211" fill="#52525B">5</text>
+      <text x="87" y="211"><tspan fill="#7DD3FC">education</tspan><tspan fill="#F472B6"> = </tspan><tspan fill="#A3E635">"BSCS | Thal University"</tspan></text>
+
+      <text x="22" y="238" fill="#52525B">6</text>
+      <text x="87" y="238"><tspan fill="#7DD3FC">focus</tspan><tspan fill="#F472B6"> = </tspan><tspan fill="#FACC15">[</tspan><tspan fill="#A3E635">"Data Science", "ML", "DSA"</tspan><tspan fill="#FACC15">]</tspan></text>
+
+      <text x="22" y="265" fill="#52525B">7</text>
+      <text x="87" y="265"><tspan fill="#7DD3FC">languages</tspan><tspan fill="#F472B6"> = </tspan><tspan fill="#FACC15">[</tspan><tspan fill="#A3E635">"Python", "C++"</tspan><tspan fill="#FACC15">]</tspan></text>
+
+      <text x="22" y="292" fill="#52525B">8</text>
+      <text x="87" y="292"><tspan fill="#7DD3FC">recognition</tspan><tspan fill="#F472B6"> = </tspan><tspan fill="#A3E635">"AI Mentor, Judge &amp; Top Performer"</tspan></text>
+
+      <text x="22" y="319" fill="#52525B">9</text>
+      <text x="87" y="319"><tspan fill="#7DD3FC">mission</tspan><tspan fill="#F472B6"> = </tspan><tspan fill="#A3E635">"Learn. Build. Evolve."</tspan></text>
+
+    </g>
+
+    <rect y="338" width="850" height="26" fill="#18181B"/>
+
+    <text x="20" y="355" fill="#4ADE80" font-size="12">main</text>
+    <text x="95" y="355" fill="#A1A1AA" font-size="12">0 errors</text>
+    <text x="575" y="355" fill="#C084FC" font-size="12">Python</text>
+    <text x="655" y="355" fill="#A1A1AA" font-size="12">UTF-8</text>
+    <text x="755" y="355" fill="#4ADE80" font-size="12">Ready</text>
+
+  </g>
+
+</svg>
