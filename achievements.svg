@@ -1,0 +1,126 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="755" viewBox="0 0 900 755">
+
+  <defs>
+    <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse">
+      <path d="M25 0H0V25" fill="none" stroke="#192332" stroke-width="0.6"/>
+    </pattern>
+    <linearGradient id="gold">
+      <stop offset="0%" stop-color="#F97316"/>
+      <stop offset="100%" stop-color="#FDE047"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="755" rx="14" fill="#080B12"/>
+  <rect width="900" height="755" rx="14" fill="url(#grid)"/>
+
+  <g font-family="Consolas, Monaco, monospace">
+
+    <text x="30" y="43" font-size="29" font-weight="bold" fill="url(#gold)">ACHIEVEMENT VAULT</text>
+
+    <text x="870" y="40" text-anchor="end" font-size="13" fill="#4ADE80">7 UNLOCKED</text>
+
+    <text x="30" y="70" font-size="13" fill="#94A3B8">PLAYER_01 // CAREER INVENTORY</text>
+
+    <path d="M30 85H870" stroke="#334155"/>
+
+    <!-- Achievement 01 -->
+
+    <rect x="30" y="100" width="840" height="72" rx="8" fill="#111827" stroke="#293548"/>
+    <rect x="30" y="100" width="5" height="72" rx="2" fill="#F97316"/>
+    <rect x="48" y="112" width="48" height="48" rx="8" fill="#25160D" stroke="#F97316"/>
+    <text x="72" y="143" text-anchor="middle" font-size="21" fill="#F97316">01</text>
+
+    <text x="115" y="120" font-size="11" fill="#F97316">ACH_01 // LEADERSHIP</text>
+    <text x="115" y="141" font-size="19" font-weight="bold" fill="#F1F5F9">The Guide</text>
+    <text x="115" y="158" font-size="13" fill="#94A3B8">Mentor &amp; Judge - Pak Angels Hackathons</text>
+    <text x="850" y="140" text-anchor="end" font-size="12" fill="#4ADE80">UNLOCKED</text>
+
+    <!-- Achievement 02 -->
+
+    <rect x="30" y="180" width="840" height="72" rx="8" fill="#111827" stroke="#293548"/>
+    <rect x="30" y="180" width="5" height="72" rx="2" fill="#EC4899"/>
+    <rect x="48" y="192" width="48" height="48" rx="8" fill="#2D1225" stroke="#EC4899"/>
+    <text x="72" y="223" text-anchor="middle" font-size="21" fill="#EC4899">02</text>
+
+    <text x="115" y="200" font-size="11" fill="#EC4899">ACH_02 // RECOGNITION</text>
+    <text x="115" y="221" font-size="19" font-weight="bold" fill="#F1F5F9">The AI Explorer</text>
+    <text x="115" y="238" font-size="13" fill="#94A3B8">Top Performer - Agentic &amp; Generative AI</text>
+    <text x="850" y="220" text-anchor="end" font-size="12" fill="#4ADE80">UNLOCKED</text>
+
+    <!-- Achievement 03 -->
+
+    <rect x="30" y="260" width="840" height="72" rx="8" fill="#111827" stroke="#293548"/>
+    <rect x="30" y="260" width="5" height="72" rx="2" fill="#60A5FA"/>
+    <rect x="48" y="272" width="48" height="48" rx="8" fill="#10203B" stroke="#60A5FA"/>
+    <text x="72" y="303" text-anchor="middle" font-size="21" fill="#60A5FA">03</text>
+
+    <text x="115" y="280" font-size="11" fill="#60A5FA">ACH_03 // CERTIFICATION</text>
+    <text x="115" y="301" font-size="19" font-weight="bold" fill="#F1F5F9">The Certified Learner</text>
+    <text x="115" y="318" font-size="13" fill="#94A3B8">Google AI Professional Certificate - Coursera</text>
+    <text x="850" y="300" text-anchor="end" font-size="12" fill="#4ADE80">UNLOCKED</text>
+
+    <!-- Achievement 04 -->
+
+    <rect x="30" y="340" width="840" height="72" rx="8" fill="#111827" stroke="#293548"/>
+    <rect x="30" y="340" width="5" height="72" rx="2" fill="#FBBF24"/>
+    <rect x="48" y="352" width="48" height="48" rx="8" fill="#29210C" stroke="#FBBF24"/>
+    <text x="72" y="383" text-anchor="middle" font-size="21" fill="#FBBF24">04</text>
+
+    <text x="115" y="360" font-size="11" fill="#FBBF24">ACH_04 // COMPETITION</text>
+    <text x="115" y="381" font-size="19" font-weight="bold" fill="#F1F5F9">The Challenger</text>
+    <text x="115" y="398" font-size="13" fill="#94A3B8">UC Berkeley Competition Participant</text>
+    <text x="850" y="380" text-anchor="end" font-size="12" fill="#4ADE80">UNLOCKED</text>
+
+    <!-- Achievement 05 -->
+
+    <rect x="30" y="420" width="840" height="72" rx="8" fill="#111827" stroke="#293548"/>
+    <rect x="30" y="420" width="5" height="72" rx="2" fill="#2DD4BF"/>
+    <rect x="48" y="432" width="48" height="48" rx="8" fill="#0C2927" stroke="#2DD4BF"/>
+    <text x="72" y="463" text-anchor="middle" font-size="21" fill="#2DD4BF">05</text>
+
+    <text x="115" y="440" font-size="11" fill="#2DD4BF">ACH_05 // HACKATHON</text>
+    <text x="115" y="461" font-size="19" font-weight="bold" fill="#F1F5F9">The Collaborator</text>
+    <text x="115" y="478" font-size="13" fill="#94A3B8">LabLab.AI - Team Intell Nova | ResearchGap</text>
+    <text x="850" y="460" text-anchor="end" font-size="12" fill="#4ADE80">UNLOCKED</text>
+
+    <!-- Achievement 06 -->
+
+    <rect x="30" y="500" width="840" height="72" rx="8" fill="#111827" stroke="#293548"/>
+    <rect x="30" y="500" width="5" height="72" rx="2" fill="#A78BFA"/>
+    <rect x="48" y="512" width="48" height="48" rx="8" fill="#21183B" stroke="#A78BFA"/>
+    <text x="72" y="543" text-anchor="middle" font-size="21" fill="#A78BFA">06</text>
+
+    <text x="115" y="520" font-size="11" fill="#A78BFA">ACH_06 // HACKATHON</text>
+    <text x="115" y="541" font-size="19" font-weight="bold" fill="#F1F5F9">The Navigator</text>
+    <text x="115" y="558" font-size="13" fill="#94A3B8">LabLab.AI - Team Neural Navigators</text>
+    <text x="850" y="540" text-anchor="end" font-size="12" fill="#4ADE80">UNLOCKED</text>
+
+    <!-- Achievement 07 -->
+
+    <rect x="30" y="580" width="840" height="72" rx="8" fill="#111827" stroke="#293548"/>
+    <rect x="30" y="580" width="5" height="72" rx="2" fill="#FB7185"/>
+    <rect x="48" y="592" width="48" height="48" rx="8" fill="#301521" stroke="#FB7185"/>
+    <text x="72" y="623" text-anchor="middle" font-size="21" fill="#FB7185">07</text>
+
+    <text x="115" y="600" font-size="11" fill="#FB7185">ACH_07 // HACKATHON</text>
+    <text x="115" y="621" font-size="19" font-weight="bold" fill="#F1F5F9">The Builder</text>
+    <text x="115" y="638" font-size="13" fill="#94A3B8">AMD Developer Hackathon: ACT II</text>
+    <text x="850" y="620" text-anchor="end" font-size="12" fill="#4ADE80">UNLOCKED</text>
+
+    <!-- Future achievement -->
+
+    <rect x="30" y="660" width="840" height="60" rx="8" fill="#0D1117" stroke="#334155" stroke-dasharray="6 4"/>
+
+    <text x="72" y="696" text-anchor="middle" font-size="22" fill="#64748B">??</text>
+
+    <text x="115" y="684" font-size="17" fill="#94A3B8">Next Achievement</text>
+    <text x="115" y="704" font-size="12" fill="#64748B">More challenges. More learning. More growth.</text>
+
+    <text x="850" y="695" text-anchor="end" font-size="12" fill="#64748B">LOCKED</text>
+
+    <text x="450" y="742" text-anchor="middle" font-size="12" fill="#4ADE80">JOURNEY CONTINUES...</text>
+
+  </g>
+
+</svg>
